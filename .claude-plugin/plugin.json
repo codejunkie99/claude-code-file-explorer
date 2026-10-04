@@ -1,0 +1,9 @@
+{
+  "name": "file-explorer",
+  "version": "0.3.7",
+  "description": "A file manager pane for Claude Code: colored tree, editable code, Git and PR diff, search, new/rename/delete.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Avid"
+  }
+}

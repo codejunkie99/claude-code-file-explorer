@@ -1,0 +1,15 @@
+{
+  "name": "av1dlive",
+  "description": "Claude Code mods by Avid (@Av1dlive).",
+  "owner": {
+    "name": "Avid",
+    "url": "https://x.com/Av1dlive"
+  },
+  "plugins": [
+    {
+      "name": "file-explorer",
+      "source": "./",
+      "description": "File manager pane: colored tree, editable code, Git and PR diff, search, new/rename/delete."
+    }
+  ]
+}
